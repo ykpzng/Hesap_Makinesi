@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(236deg, #74ebd5, #acb6e5);
+}
+.navbar{
+  height: 100px;
+  color: blue;
+  background-color:chartreuse;
+}
+.btn{
+  width: 60px;
+  height: 45px;
+  margin-top: 5px;
+  color:azure;
+  background-color:lightslategrey;
+}
+.clr{
+  background-color: coral;
+}
+#equal{
+  width: 122px;
+  height: 45px;
+  background-color:darkorange;
+}
+#input{
+  width: 255px;
+  margin-top: 5px;
+  text-align: right;
+ background-color: antiquewhite;
+}
+
+#calc{
+  text-align: center;
+}
+.clr1{
+  background-color:#acb6e5;
+  color: black;
+}
