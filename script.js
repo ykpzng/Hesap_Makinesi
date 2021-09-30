@@ -5,7 +5,7 @@ for (const btn of btnGroup) {
   btn.addEventListener("click", inputWrite);
 }
 
-let num1, num2, counter;
+let num1=0, num2=0, counter=0;
 
 function inputWrite(e) {
   if (e.target.id === 'percent' || e.target.id === 'divide' || e.target.id === 'multiply' || e.target.id === 'subtract' || e.target.id === 'add') {
