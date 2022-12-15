@@ -2,7 +2,7 @@
 
    Pure javaScript ile yapılmış basit hesap makinesi uygulaması.
    
-   Buradan inceleyebilirsiniz.   
+   Buradan inceleyebilirsiniz...   
    https://ykpzng.github.io/Hesap_Makinesi/.
     
     
